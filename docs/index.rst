@@ -3,33 +3,56 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Aplikasi Penting Untuk Android Yang Sudah Di Root
+Daftar Fitur Terbaru WhatsApp APK 2022 
 ==================
-Setelah perangkat smartphone android sudah mengalami root memang akan menunjukan berbagai macam keunggulannya tersendiri, seperti misalnya anda bisa mengakses dan masuk ke dalam sistem file untuk memodifikasi dan juga melakukan kostumisasi terhadap perangkat android. Smartphone android yang telah di root juga akan memiliki daya tahan yang lebih lama pada bagian baterainya, serta memiliki peforma yang meningkat, dengan proses pemuatan untuk aplikasinya yang lebih cepat.
+Siapa sih yang tidak kenal dengan WhatsApp pada saat ini? Aplikasi media sosial ini begitu banyak peminat dan penggunanya di seluruh dunia. Aplikasi ini menjadi trending dikarenakan setiap tahunnya menawarkan fitur terbaru WhatsApp sebagai daya tarik untuk pengguna resmi ataupun calon penggunanya.
+Secara tidak langsung, aplikasi ini memberikan banyak manfaat dibalik pembaharuan fitur – fiturnya pada akun media sosial ini. Pengguna resmi dan calon pengguna menjadi tidak perlu khawatir atau bingung lagi dengan pemakaian ataupun penggunaan aplikasi yang satu ini. Dikarenakan, terdapat banyak fitur – fitur kemudahan yang ditawarkan oleh pihak WhatsApp.
 
-Berbicara mengenai aplikasi android yang terbaik bagi smartphone anda yang telah di root, ternyata memiliki banyak jenisnya. Memang ada aplikasi yang sesuai untuk smartphone android yang sudah di root, atau aplikasi yang sesuai untuk perangkat smartphone yang belum di root. Nah, bagi anda yang memiliki smartphone dan baru saja mengalami proses rooting, berikut ini adala beberapa kumpulan aplikasi `Google Play Store <https://www.sebuahutas.com/2022/02/download-play-store-terbaru-2022.html>`_ penting untuk smartphone android yang telah di root.
+Pengin tau apa saja fitur – fitur terbaru WhatsApp pada tahun ini? simak berikut ini ulasannya!
 
-Aplikasi Khusus Untuk Android Yang Sudah Di Root
-================================================
+FITUR – FITUR TERBARU WHATSAPP PADA TAHUN 2022
+====================
+Kira – kira di tahun ini, apa saja fitur – fitur yang ditawarkan oleh pihak WhatsApp kepada pengguna baru atau pengguna lama? Berikut ini fitur – fitur terbaru dari WhatsApp kepada Anda!
 
-1.	Superuser
+1. Notifikasi Menggunakan Foto
 
-Memang salah satu kelemahan setelah mengalami proses rooting, smartphone atau tablet android anda akan lebih rentan seputar akses privasi dan juga data yang bocor. Aplikasi android ini akan bekerja pada bagian background yang mana akan mengawasi smartphone android kita, jika akan menginstal aplikasi baru. Selain itu, aplikasi ini juga sangat bermanfaat karena sifatnya sebagai pengaman, anda dapat melakukan block aplikasi ketika ada aplikasi yang tidak resmi terinstall di smarthpone anda.
+Salah keunikan fitur terbaru WhatsApp di tahun ini adalah adanya notifikasi atau pengingat pesan WA dengan menggunakan foto profil pada kemunculannya. Dengan memunculkan foto profil di pengingat, Anda tidak perlu lagi membuka pesan WA untuk melihat siapa yang mengirim pesan tersebut.
 
-2.	ROM Manager
+Pembaharuan fitur ini terjadi karena adanya tes uji platform media sosial oleh pihak pengembang aplikasi. Kemunculan fitur ini belum lama ditampilkan oleh pihak pengembang kepada para penguji. Ini karena, banyaknya saran dari pengguna lama agar dapat menampilkan foto profilnya melalui notifikasi.
 
-Aplikasi ini sangat berguna untuk memeriksa pembaruan yang tersedia, dan memastikan bahwa yang digunakan adalah benar – benar up to date, yang mana aplikasi ini akan bekerja dengan memudahkan melakukan boot dengan cepat kedalam recovery modesehingga kita bisa melkaukan flash terhadap ROM terbaru , atau bisa juga melakukan pengaturan ROM lainnya yang bisa langsung dipasang menggunakan aplikasi ini.
+Namun, fitur ini hanya dapat dirasakan oleh pengguna IOS sahaja. Dapat dikatakan bahwa fitur ini masih dalam bentuk pengawasan para pengembang agar mampu tergunakan oleh pengguna lainnya.
 
-3.	Xposed Installer (Framework)
+2. Hiding last seen View
 
-Aplikasi ini berisi seperti halnya modul yang ada pada smartphone anda, dan memang memiliki berbagai macam kemampuan yang bisa anda nikmati seperti bisa dengan mudah dalam melakukan kosumisasi dengan beragam cara yang kesemuaanya bisa dilakukan dengan Xposed Intaller yang bisa anda temui di google playstore.
+Fitur ini merupakan salah pembaharuan fitur terbaru WhatsApp yang menarik perhatiannya para WhatsAppers yang tidak ingin dilihat oleh atau dikuntit oleh teman ataupun orang lain. Pasalnya, fitur ini mampu menyembunyikan jam status Anda. Sehingga, keberadaan Anda jadi senyap dan tidak terganggu.
 
-4.	Greenify
+Yang menariknya lagi dalam fitur ini, teman ataupun orang terdekat Anda tidak akan mengetahui jika Anda aktif ataupun tidak. Karena, setelah fitur ini teraktifkan. Maka, seluruh kontak yang terhubung dengan akun WA Anda tidak akan mengetahui apakah Anda aktif ataupun tidak selama seharia, bahkan berminggu – minggu.
 
-Aplikasi ini berfungsi untuk mengatur dan mengelola konsumsi baterai, yang mana bisa ada minta dan kenakan untuk aplikasi yang sedang berjalan. Selain itu, Greenify merupakan salah satu aplikasi yang bermanfaat, mengingat android merupakan perangkat yang cepat habis masa hidup baterainya, dimana anda bisa melakukan hibernasi aplikasi jika tidak menggunakannya untuk menghemat baterai.
+3. Pengeditan
 
-5.	Data Sync
+Format atau fitur ini baru sahaja dikembangkan pada akun WhatsApp pada tahun ini. penambahan fitur edit pada akun WhatsApp ini, menjadi salah satu daya tarik yang terkini oleh semua pengguna WhatsApp. Dimana, fitur ini merupakan sebagai salah satu cara pengguna dapat mengetahui akan siapa yang melihat media yang telah dibagikan serta dapat memudahkan pengguna untuk mengirim langsung tanpa membuka akun WA.
 
-Kegunaan aplikasi ini untuk android adalah memiliki kemampuan yang baik dalam proses sinkronisasi antar smartphone android yang satu dengan lainnya. Misalnya saja anda menggunakan tablet dan juga smartphone, maka anda bisa melakukan sinkronisasi antar dua aplikasi tersebut dimana nantinya anda bisa menggunakan FTP, Wi-Fi hingga menggunakan Cloud Storage.
+4. Menampilkan foto sekali
 
-Demikian beberapa aplikasi android yang penting dan sesuai dengan perangkat smartphone android anda yang telah diroot. Semoga bermanfaat sebagai rekomendasi menarik dari `Osrepublik.com <https://www.osrepublik.com>`_ untuk anda. dan selamat mencoba.
+Mungkin di saat pengiriman foto, atau sejenisnya Anda tidak ingin orang yang dikirim media ini menyimpannya. Sehingga, Anda dapat memanfaatkan fitur sekali lihat pada foto tersebut. Dengan penggunaan fitur tambahan ini menjadikan WhatsApp menjadi menarik dan cukup berpenampilan menarik.Fitur sekali lihat ini dapat Anda lihat pada setiap chat yang Anda tulis. 
+
+5. Pengarsipan pesan
+
+Saat ini, salah satu fitur terbaru WhatsApp dapat mengarsipkan pesan yang akan Anda gunakan tanpa membuka folder arsip pada akun WhatsApp. Pembaharuan fitur ini menjadi salah satu daya tarik utama pada pengguna WhatsApp.
+
+Keuntungan Menggunakan Aplikasi WhatsApp
+===========================
+
+Whatsapp membawa serangkaian pesan yang telah ditentukan sebelumnya yang dapat Anda ketuk untuk mengirimnya secara instan, dan pengaturan aplikasi ini memungkinkan Anda untuk mengubah beberapa pengaturan obrolan Anda dan bahkan mengatur status Anda agar orang lain mengetahui apakah mereka dapat menghubungi Anda secara bebas atau tidak. bukan.
+
+Whatsapp messenger adalah pilihan yang sangat baik untuk mengirim teks gratis di seluruh platform, bahkan secara internasional, aplikasi mengirimkan pesan teks dan foto melalui paket data Internet pengguna, Whatsapp memiliki kualitas komunikasi yang tinggi, dan memiliki kecepatan tinggi untuk menghubungi keluarga dan teman Anda.
+
+WhatsApp gratis untuk digunakan dan faktanya adalah layanan perpesanan yang digunakan untuk menagih banyak uang untuk berbagi SMS dan MMS. Ini tidak terjadi dengan WhatsApp. Ini adalah salah satu fakta yang membuat WhatsApp begitu populer. 
+
+Anda dapat bertukar pesan, gambar, dan video tanpa batas di WhatsApp tanpa biaya apa pun. Ini adalah aplikasi perpesanan generasi baru untuk semua pengguna telepon. Tidak ada persyaratan untuk banyak ruang di ponsel Anda untuk menggunakan WhatsApp. Aplikasi ini bahkan tidak memerlukan ponsel kelas atas, aplikasi ini kompatibel dengan hampir semua smartphone yang saat ini tersedia di pasaran.
+
+Selain menggunakan WhatsApp untuk berkirim pesan, platform tersebut juga dapat digunakan untuk melakukan panggilan suara dan video. Anda tidak perlu menginstal Skype untuk Panggilan Video lagi karena ini dapat dilakukan melalui WhatsApp. 
+
+Selain itu, Panggilan Video berfungsi seperti Face Time sehingga Anda tidak perlu menunggu pengguna online. Bukankah itu fitur yang bagus untuk dimiliki? Selain melakukan panggilan video, Anda juga dapat berbagi konten dengan bantuan WhatsApp. Ini memungkinkan Anda untuk berbagi tautan, video, gambar, dan banyak hal lainnya melalui internet dengan kontak Anda.
+
+Fitur – fitur terbaru ini menjadi aspek yang sangat digemari oleh banyak orang. Tidak heran, pengguna WhatsApp setiap tahunnya meningkat dan menjadikan aplikasi WhatsApp menjadi aplikasi yang paling banyak diunduh di tahun 2022.
